@@ -66,7 +66,7 @@ margin-left: 5px;
     width: 400px;
     height: 400px;
     margin-top: 75px;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-bottom: 100px;
 }
 .mediv{
@@ -120,7 +120,7 @@ i{
 
 }
 .servicecard{
-    margin-left: 4em;
+    margin-left: 3em;
     transition: all .3s ease;
     margin-bottom: 10em;
     
@@ -198,8 +198,10 @@ i{
 }
 
 .contact-card{
-    margin-left: 4em;
+    
     transition: all .3s ease;
+    margin-bottom: 4em;
+    
 }
 .contact-head{
     color: var(--pure);
@@ -225,7 +227,7 @@ i{
     line-height: 1.6;
 }
 .cards{
-    grid-gap: 12em;
+    grid-gap: 8em;
 }
 .inp{
     width: 460px;
